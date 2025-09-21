@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seyedmasih Tabaei (a. k. a. Masih)
 
 <!--
 **Masihtabaei/masihtabaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Explore my [projects](https://masihtabaei.dev/projects/), read my [publications](https://masihtabaei.dev/publications/), or [contact me](https://masihtabaei.dev/).
